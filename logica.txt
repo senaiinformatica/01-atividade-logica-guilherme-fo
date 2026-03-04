@@ -13,4 +13,4 @@ Embarco no trem;
 Desço na estação de São Caetano;
 Vou a pé até o SENAI;
 Quando chego, almoço;
-E então a aula será iniciada às 14h30.
+E então a aula será iniciada às 14h15.
